@@ -29,7 +29,7 @@ else:
     print("Budi tidak jadi membeli 1 botol susu")
 
 print("Budi pulang kerumah")
-print("Menyampaikan hasilnya pada ibuu")
+print("Menyampaikan hasilnya pada ibuuu")
 
 
 
